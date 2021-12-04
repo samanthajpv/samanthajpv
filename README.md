@@ -2,7 +2,7 @@
 
 - 🧐 I'm a Data Analyst located in San Francisco Bay Area.
 - 🧠 I’m interested to dive deep into the world of data analytics.
-- 👀 Featured project (bootcamp capstone project): https://github.com/weihaolun/Twitter-Sentiment-Analysis, a weekday Twitter sentiment analysis on Tesla
+- 👀 Featured project: https://github.com/weihaolun/Twitter-Sentiment-Analysis, a weekday Twitter sentiment analysis on Tesla
 - 🐾 Fun fact: I love dogs! 
 
 ### Connect with me:
