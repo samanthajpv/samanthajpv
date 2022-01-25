@@ -1,7 +1,7 @@
 ### Hi, I’m Sam 👋 
 
-- 🧐 I'm a Data Analyst located in San Francisco Bay Area.
-- 🧠 I’m interested to dive deep into the world of data analytics.
+- 🧐 I'm a Data Analyst located in San Francisco Bay Area and graduated Data Analytics Boot Camp from UC Berkeley Extension.
+- 🧠 I’m interested to dive deep into the world of data science. I love working with numbers and I enjoy transforming data into powerful visualizations and create meaningful data storytelling. 
 - 👀 Featured project: https://github.com/weihaolun/Twitter-Sentiment-Analysis, a weekday Twitter sentiment analysis on Tesla
 - 🐾 Fun fact: I love dogs! 
 
