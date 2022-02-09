@@ -2,7 +2,7 @@
 
 - 🧐 I'm a Data Analyst located in San Francisco Bay Area and graduated Data Analytics Boot Camp from UC Berkeley Extension.
 - 🧠 I’m interested to dive deep into the world of data science. I love working with numbers and I enjoy transforming data into powerful visualizations and create meaningful data storytelling. 
-- 👀 Featured project: https://github.com/weihaolun/Twitter-Sentiment-Analysis, a weekday Twitter sentiment analysis on Tesla
+- 👀 Featured project: https://github.com/weihaolun/Twitter-Sentiment-Analysis - an interactive Twitter sentiment monitoring dashboard on Tesla using NLP and machine learning classification
 - 🐾 Fun fact: I love dogs! 
 
 ### Connect with me:
